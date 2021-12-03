@@ -1,2 +1,4 @@
 # Sales-and-Profit-Dashboard
-Power BI Dashboard
+
+
+Dashboard Implementation using Power BI
